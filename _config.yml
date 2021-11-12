@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "김지윤"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar picture.png"
   bio              : "행복한 감자"
   location         : "대한민국, 경기"
   email            : "21-20605@hafs.hs.kr"
