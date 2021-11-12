@@ -17,9 +17,9 @@ layout: single
 
 ---
 ### 자바 Java
-![love][silicon]
+![java][javalink]
 
-[silicon]: http://www.sisaweek.com/news/photo/201808/112889_95582_5351.gif
+[javalink]: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20130306_290%2Fqhuj0614_13625366285282PjX3_JPEG%2Ftistory_com_20130306_112258.jpg&type=a340
 
  Java는 보안성이 뛰어난 것으로 평가되는 컴퓨터 프로그래밍 언어이다. 객체 지향 언어인 C++ 언어의 객체 지향적인 장점을 살리면서 분산 환경을 지원해 더욱 효율적이라고 한다.
 
