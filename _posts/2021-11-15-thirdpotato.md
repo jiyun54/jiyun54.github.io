@@ -16,7 +16,8 @@ categories: "C언어"
  
 ### 01. 사주보기
  
-![if 1][if 1 link]<br>
+![if 1][if 1 link]
+
 [if 1 link]: https://lh3.googleusercontent.com/25cLD-X4rZxy4n0Pl81NTSESprD_yI15By3c49GUzkAEcK0L7cfaDxvx1IepAxKvZXMAba5nMTtjZrE=w1213-h1319
  
  
