@@ -4,7 +4,7 @@ layout: single
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
-categories: "컴퓨터 프로그래밍에 관한 전반적인 내용"
+categories: "프로그래밍언어"
 ---
 - 컴퓨터 프로그래밍 언어의 종류와 특징 
 
