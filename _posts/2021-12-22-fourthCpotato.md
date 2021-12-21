@@ -1,8 +1,6 @@
 ---
 title: "네번째 C감자"
 layout: single
-toc: true
-toc_sticky: true
 categories: "프로그래밍"
 ---
 
