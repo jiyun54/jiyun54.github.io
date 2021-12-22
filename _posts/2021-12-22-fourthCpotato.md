@@ -30,14 +30,14 @@ https://replit.com/@jiyun0504
 
 나의 replit 목록은 다음 사진과 같다.
 
-![replit1](assets/images/replit1.png)
-![replit2](assets/images/replit2.png)
-![replit3](assets/images/replit3.png)
-![replit4](assets/images/replit4.png)
-![replit5](assets/images/replit5.png)
-![replit6](assets/images/replit6.png)
+![replit1](/assets/images/replit1.png)
+![replit2](/assets/images/replit2.png)
+![replit3](/assets/images/replit3.png)
+![replit4](/assets/images/replit4.png)
+![replit5](/assets/images/replit5.png)
+![replit6](/assets/images/replit6.png)
 
 
 구체적인 실행 화면은 다음 사진과 같다.
 
-![replit실행](assets/images/replit실행.png)
+![replit실행](/assets/images/replit실행.png)
